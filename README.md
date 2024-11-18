@@ -15,7 +15,7 @@
       2303A54023<br>
      </td>
     <td><a href = "https://drive.google.com/file/d/1YirYVesyhXgVXT3K1AxB2muRGetHYX19/view?usp=sharing">SET - 1</a></td>
-    <td><a href = "https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv">DATASET</a></td>
+    <td><a href = "https://drive.google.com/file/d/115bly2OgFhAFvYG8ChIzMYGvcrmYWL1n/view?usp=sharing">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A54025<br>
@@ -26,7 +26,7 @@
       2303A54040<br>
      </td>
     <td><a href = "https://drive.google.com/file/d/13gF3DN9F-RiTkif2S3DDzIVlhn26ERcH/view?usp=sharing">SET - 2</a></td>
-    <td><a href = "https://www.kaggle.com/datasets/satayjit/student-performance-bd">DATASET</a></td>
+    <td><a href = "https://drive.google.com/file/d/1eRxraOHkOZFOxwAy7PoWlnOIDnnWNWrG/view?usp=sharing">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A54041<br>
@@ -37,7 +37,7 @@
       2303A54057<br>
       </td>
     <td><a href = "https://drive.google.com/file/d/1W0vZgL6ZHsTfXwMjV6WRKajSXPGQ-BVT/view?usp=sharing">SET - 3</a></td>
-    <td><a href = "https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data">DATASET</a></td>
+    <td><a href = "https://drive.google.com/file/d/1d3G8JlKtCcKSz57jVvUHw3a_DR0ug83i/view?usp=sharing">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A54063<br>
@@ -48,7 +48,7 @@
       2303A54070<br>
      </td>
     <td><a href = "https://drive.google.com/file/d/1v8f5Q8x0SWmfBDUxYTe29tOfi9b0kicI/view?usp=sharing">SET - 4</a></td>
-    <td><a href = "https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset">DATASET</a></td>
+    <td><a href = "https://drive.google.com/file/d/1AGIi2QMd57J2reZhdVBIJ632XazLP62u/view?usp=sharing">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A54071<br>
@@ -56,6 +56,6 @@
       2303A54L01<br>
      </td>
     <td><a href = "https://drive.google.com/file/d/1eeCaN4u8Ay10KADUWGBj83btk-5uz7cG/view?usp=sharing">SET - 5</a></td>
-    <td><a href = "https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset">DATASET</a></td>
+    <td><a href = "https://drive.google.com/file/d/1Pfp8j6GWgKusQUlqwrj5losFSlCttLV1/view?usp=sharing">DATASET</a></td>
   </tr>
 </table>
