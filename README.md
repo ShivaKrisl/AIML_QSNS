@@ -1,4 +1,4 @@
-# AIML LAB EXTERNAL (2024-25)
+# AIML LAB EXTERNAL (2024-25) Batch - 48
 
 <table>
   <tr>
